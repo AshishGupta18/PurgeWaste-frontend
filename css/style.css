@@ -651,6 +651,13 @@ input[type="checkbox"] {
     position: static;
     width: 86%;
     text-align: center;
+    /* display: flex; */
+}
+
+.slider-1 .swiper-container .swiper-wrapper{
+    display: flex;
+    justify-content: space-around;
+
 }
 
 .slider-1 .swiper-button-prev:focus,
